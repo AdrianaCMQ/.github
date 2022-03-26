@@ -1,28 +1,41 @@
+<div align="center">
 # Hello There 👋
 
-Hey buddy, nice to meet you!
+<div align="left">
 
-I'm Chen Mengqi and go by Adriana. 
-You can call me <em>Adri</em> for short. :)
+- 我是 Francesca Chen, 你可以叫我Frankie!
+
+I'm Chen Mengqi and go by Francesca. 
+You can call me <em>Frankie</em> for short.
+</div>
+
 ******
+
 This is me in a ginkgo forest. 
-![SELFIE](https://raw.githubusercontent.com/AdrianaCMQ/.github/main/profile/assets/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_202203261223224.jpg)
-BTW, I love trees!
-Sometimes I like being funny(weird), like this:
-![WEIRD](LUJING)
-******
-I'm interested lots of things.
 
-- This is me dancing at the parties.
-![dancing](https://raw.githubusercontent.com/AdrianaCMQ/.github/main/profile/assets/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_202203261223216.jpg)
-- This is me singing in the playground.
-![singing](https://raw.githubusercontent.com/AdrianaCMQ/.github/main/profile/assets/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_202203261333472.jpg)
-- This is me acting as an emcee of our graduation party.
-![emcee](https://raw.githubusercontent.com/AdrianaCMQ/.github/main/profile/assets/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20220326122320.jpg)
-- These are photos form my trips.
-![SHANGHAI](https://raw.githubusercontent.com/AdrianaCMQ/.github/main/profile/assets/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_202203261223211.jpg)
-![SANYA1](https://github.com/AdrianaCMQ/.github/blob/main/profile/assets/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20220326122322.jpg?raw=true)
-![SANYA2](https://github.com/AdrianaCMQ/.github/blob/main/profile/assets/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_202203261223217.jpg?raw=true)
-![GUIZHOU](https://raw.githubusercontent.com/AdrianaCMQ/.github/main/profile/assets/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_202203261333471.jpg)
+<img src=https://raw.githubusercontent.com/AdrianaCMQ/.github/main/profile/assets/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_202203261223224.jpg width=40% />
+
+BTW, I love trees🌳!
+***
+
+
+<div align="left">
+
+- 喜欢看电影🎬，喜欢跳舞💃唱歌🎵，喜欢旅行✈
+
+- This is me dancing & singing at the stages.
+</div>
+<img src=https://raw.githubusercontent.com/AdrianaCMQ/.github/main/profile/assets/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_202203261223216.jpg width=60%> <img src=https://raw.githubusercontent.com/AdrianaCMQ/.github/main/profile/assets/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20220326122320.jpg width=25%>
+
+<div align="left">
+
+- These are photos from my trips.
+
+</div>
+<img src=https://raw.githubusercontent.com/AdrianaCMQ/.github/main/profile/assets/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_202203261223211.jpg width=30%>
+
+<img src=https://raw.githubusercontent.com/AdrianaCMQ/.github/main/profile/assets/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_202203261333471.jpg width=40%>
+
 ******
 Hope I can have more wonderful experience in TW!
+</div>
