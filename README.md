@@ -21,7 +21,7 @@ I'm interested lots of things.
 ![emcee](https://raw.githubusercontent.com/AdrianaCMQ/.github/main/profile/assets/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20220326122320.jpg)
 - These are photos form my trips.
 ![SHANGHAI](https://raw.githubusercontent.com/AdrianaCMQ/.github/main/profile/assets/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_202203261223211.jpg)
-![SANYA1](LUJING)
+![SANYA1](https://github.com/AdrianaCMQ/.github/blob/main/profile/assets/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20220326122322.jpg?raw=true)
 ![SANYA2](https://raw.github.com/AdrianaCMQ/.github/blob/main/profile/assets/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_202203261223217.jpg?raw=true)
 ![GUIZHOU](LUJING)
 ******
