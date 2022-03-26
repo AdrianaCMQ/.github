@@ -2,5 +2,7 @@
 
 Hey buddy, nice to meet you!
 
-I'm Chen Mengqi, and go by Adriana. 
+I'm Chen Mengqi and go by Adriana. 
 You can call me Adri for short.
+******
+-I love trees. This is me in a ginkgo forest.
