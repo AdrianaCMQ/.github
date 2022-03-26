@@ -18,7 +18,7 @@ BTW, I love trees!
 - This is me singing in the playground.
 
 - This is me hosting our graduation party.
-
+![https://github.com/AdrianaCMQ/.github/blob/main/assets/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20220326122320.jpg?raw=true]
 - These are photos form my trips.
 
 ******
