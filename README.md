@@ -1,9 +1,10 @@
 <div align="center">
-# Hello There 👋
+
+# <b>Hello There 👋
 
 <div align="left">
 
-- 我是 Francesca Chen, 你可以叫我Frankie!
+- 我是 Francesca Chen, 你可以叫我Frankie!</b>
 
 I'm Chen Mengqi and go by Francesca. 
 You can call me <em>Frankie</em> for short.
@@ -11,17 +12,10 @@ You can call me <em>Frankie</em> for short.
 
 ******
 
-This is me in a ginkgo forest. 
-
-<img src=https://raw.githubusercontent.com/AdrianaCMQ/.github/main/profile/assets/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_202203261223224.jpg width=40% />
-
-BTW, I love trees🌳!
-***
-
-
 <div align="left">
 
-- 喜欢看电影🎬，喜欢跳舞💃唱歌🎵，喜欢旅行✈
+- <b>喜欢探索新鲜事物🤩
+- 喜欢看电影🎬，喜欢跳舞💃唱歌🎵，喜欢旅行✈</b>
 
 - This is me dancing & singing at the stages.
 </div>
@@ -32,10 +26,13 @@ BTW, I love trees🌳!
 - These are photos from my trips.
 
 </div>
-<img src=https://raw.githubusercontent.com/AdrianaCMQ/.github/main/profile/assets/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_202203261223211.jpg width=20%> <img src=https://raw.githubusercontent.com/AdrianaCMQ/.github/main/profile/assets/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_202203261333471.jpg width=35.5%> 
+<img src=https://raw.githubusercontent.com/AdrianaCMQ/.github/main/profile/assets/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_202203261223211.jpg width=25%> <img src=https://raw.githubusercontent.com/AdrianaCMQ/.github/main/profile/assets/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_202203261333471.jpg width=42%> 
 
-<img src=https://github.com/AdrianaCMQ/.github/blob/main/profile/assets/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_202203261223217.jpg?raw=true width=33.5%> <img src=https://raw.githubusercontent.com/AdrianaCMQ/.github/main/profile/assets/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20220326122322.jpg width=33.5%>
+<img src=https://raw.githubusercontent.com/AdrianaCMQ/.github/main/profile/assets/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_202203261223217.jpg width=33.5%> <img src=https://raw.githubusercontent.com/AdrianaCMQ/.github/main/profile/assets/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20220326122322.jpg width=33.5%>
 
 ******
-Hope I can have more wonderful experience in TW!
+<div align="left">
+<b>
+
+- Hope I can have more wonderful experience in TW!🧡
 </div>
